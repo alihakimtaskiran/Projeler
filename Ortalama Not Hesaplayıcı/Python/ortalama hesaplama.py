@@ -1,6 +1,6 @@
 haftalık_ders_saati=40
 notlar=[]
-notlar.append(input("Beden:"))
+notlar.append(float(input("Beden:"))
 notlar.append(float(input("Bilgisayar:")))
 notlar.append(float(input("Coğrafya:")))
 notlar.append(float(input("Din:")))
